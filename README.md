@@ -5,7 +5,7 @@ This project implements a decision tree from scratch with custom pruning techniq
 ## Project Structure
 
 - `EDA.py`: This script performs exploratory data analysis on the Wine dataset, visualizing relationships between features and the target variable.
-- `main.py`: This script contains the implementation of a decision tree classifier with custom pruning methods. It includes functions for training, predicting, and pruning the decision tree.
+- `main.py`: This script contains the implementation of a decision tree classifier with custom pruning methods. It includes functions for training, predicting, and pruning the decision tree using the Wine Dataset.
 
 ## Dataset
 
